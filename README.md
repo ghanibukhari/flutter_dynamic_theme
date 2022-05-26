@@ -1,16 +1,8 @@
 # dynamic_theme_test
 
-A new Flutter project.
+Flutter 3.0.0, Bloc 8.0.3
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nowadays, switching themes is one of the trending feature in every mobile application. By switching the themes, users can reduce their eye strain and increases mobile battery life.
+In this project, I am going to show about how to switch themes dynamically using a Bloc for state management.
